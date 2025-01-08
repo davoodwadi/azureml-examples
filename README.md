@@ -1,3 +1,5 @@
+# This is a fork
+
 # Azure Machine Learning examples
 
 [![license: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
@@ -8,7 +10,6 @@ Welcome to the Azure Machine Learning examples repository!
 
 The azureml-examples repository contains examples and tutorials to help you learn how to use Azure Machine Learning
 (Azure ML) services and features.
-
 
 ### Getting Started
 
@@ -24,8 +25,8 @@ We have an extensive collection of examples for the [Azure ML Python SDK v2][azu
 
 We also offer some examples for our SDKs in other languages:
 
-* .NET: [`sdk/dotnet`][azureml dotnet sdk v2 examples]
-* TypeScript: [`sdk/typescript`][azureml typescript sdk v2 examples]
+- .NET: [`sdk/dotnet`][azureml dotnet sdk v2 examples]
+- TypeScript: [`sdk/typescript`][azureml typescript sdk v2 examples]
 
 ### Azure Machine Learning extension for Azure CLI
 
@@ -34,8 +35,7 @@ The [`cli/` folder][azureml cli extension examples] hosts our examples to use th
 
 _Note_: If you're looking for examples that submit Azure ML jobs that run non-Python code, see:
 
-* **R**: [`cli/jobs/single-step/r`](./cli/jobs/single-step/r)
-
+- **R**: [`cli/jobs/single-step/r`](./cli/jobs/single-step/r)
 
 ## Supplementary Documentation
 
